@@ -57,7 +57,7 @@ export default function Register() {
     return (
         <div className='form-container'>
             <div className="form-wrapper">
-                <span className="logo">Lama Chat</span>
+                <span className="logo">Chat App</span>
                 <span className="title">Register</span>
                 <form onSubmit={handleSubmit}>
                     <input type="text" placeholder="Display Name" />
